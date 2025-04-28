@@ -3,7 +3,7 @@ const users = {
     // 'john': "password" //Add user pass login
 }
 
-const port = 8080; //Change the port it binds to
+const port = 5671; //Change the port it binds to
 
 //Edit broken-sites.json to prompt the user to redirect to a fixed version of a site (ex. now.gg --> nowgg.nl)
 const brokenSites = async () => {
